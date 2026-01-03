@@ -1,0 +1,1 @@
+http://langchain-opentutorial.gitbook.io/langchain-opentutorial/12-rag
